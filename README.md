@@ -15,7 +15,7 @@ has compared to find the best performing algorithm using Internal and External v
     • To perform comparative analysis of the results.
 ## Block Diagram of the Project
 
-![App Screenshot](https://im2.ezgif.com/tmp/ezgif-2-3313fe2616.gif)
+[App Screenshot](https://im2.ezgif.com/tmp/ezgif-2-3313fe2616.gif)
 
 
 ## Dataset used
