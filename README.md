@@ -13,8 +13,9 @@ has compared to find the best performing algorithm using Internal and External v
     • Implementing unsupervised learning algorithms for IoT network traffic analysis.
 
     • To perform comparative analysis of the results.
-#Block diagram of the project
-![Logo](https://github.com/Dhruba6060/Unsupervised-Learning-Algorithms/blob/main/Block%20Diagram.png?raw=true)
+## Block Diagram of the Project
+
+![App Screenshot](https://github.com/Dhruba6060/Unsupervised-Learning-Algorithms/blob/main/Block%20Diagram.png?raw=true)
 
 
 ## Dataset used
